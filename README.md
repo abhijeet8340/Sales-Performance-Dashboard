@@ -100,5 +100,5 @@ This project demonstrates my ability to clean, analyze, and visualize structured
 📬 Contact
 
 Abhijeet Kumar
-📧 (Add your email here)
-🔗 (Add your LinkedIn profile link)
+📧 (abhijeetku8340@gmailcom)
+🔗 https://www.linkedin.com/in/abhijeet-kumar-7903aa239/
